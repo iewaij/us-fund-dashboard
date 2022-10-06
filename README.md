@@ -7,7 +7,7 @@ This repository explores the US Funds dataset available at [Kaggle](https://www.
 Use `conda` or `mamba` to create a virtural environment:
 
 ```
-conda env create -f us-funds-dashboard.yml
+conda env create -f environment.yml
 conda activate us-funds-dashboard
 ```
 
